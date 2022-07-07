@@ -6,7 +6,7 @@
 ------------------
 
 ## Dokumentasi Link
-https://drive.google.com/file/d/18dggQYB6jS14CqJq6HCoEnEaxcRDytd2/view?usp=sharing
+https://drive.google.com/file/d/1rYbxVbpD9mX_6SHCs82NiMmJknEbJNtF/view?usp=sharing
 
 <br>
 
@@ -28,6 +28,7 @@ http://syahruweb.shieby.com/
  ---------------
 |UserName		|Password		|
 |-----			|-----	    	|
-|apoteker1      |apoteker1      |
-|apoteker2      |apoteker2      |
+|admisi         |admisi         |
+|admisi2        |admisi2        |
+|admisi3        |admisi3        |
 ------------------
